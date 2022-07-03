@@ -2,6 +2,8 @@
 
 Automatic, motion sensor controlled, room lighting using Arduino.
 
+Motion is detected by a PIR sensor.
+
 The LED indicates detection of the motion.
 
 How long the light will stay on after detection is a parameter controlled by a potentiometer connected to the board.
